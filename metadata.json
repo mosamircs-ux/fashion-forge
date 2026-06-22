@@ -1,0 +1,6 @@
+{
+  "name": "Fashion Forge",
+  "description": "An advanced custom clothing design ecosystem connecting customers, tailors, suppliers, and delivery partners with custom design wizards, AI design studio, virtual try-ons, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
